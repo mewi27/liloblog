@@ -69,17 +69,13 @@ Trotzdem, einen Ausgleich brauchen alle, die in der Woche auch mal siebzig Stund
 Andererseits ist er auch sportlich aktiv. Diesbezüglich sei der Lockdown im Frühsommer 2020 ungünstig gewesen, als alle Fitnesscenter geschlossen waren. Zu seinem Sportprogramm gehört seither das Liegevelo. Wenn die Wetterverhältnisse und sein Stundenplan es zulassen, fährt er damit im Sommer und Winter zur Schule. Zudem ist er leidenschaftlicher Segler. Das Segeln auf dem Thunersee tue ihm gut, denn es schaffe die zuweilen nötige Distanz zu seinem Berufsalltag. 
 Inzwischen ist es spät und Lorenzetti will nun nach Hause. Auch das gemeinsame Abendessen mit seiner Frau hat für ihn einen hohen Stellenwert. „Das Abendessen ist die Zeit, wo wir zum Sprechen kommen.“ Eine abschliessende Frage liegt aber noch drin: Wo er den Gymer in fünf Jahren sieht und was seine Ziele bis dann sind. Ziel Nummer 1 sei und bleibe möglichst gute Rahmenbedingungen für die Schülerinnen zu schaffen. Aktuell gehe es darum, mehr Schulraum zu finden, denn der Gymer Kirchenfeld sei eigentlich viel zu klein für so viele Schü-lerinnen. Zusätzlich komme noch das 100-jährige Jubiläum des Gymnasiums Kirchenfeld im Jahr 2026 dazu. Es sei sein Ziel, hierfür ein schönes Fest zu organisieren. Zudem wolle er die Schulleitung so aufbauen, dass sie das Tagesgeschäft allein bewältigen könne und er als Rektor sich primär mit der Ressourcenplanung, dem „Aussenministerium“ und intern mit Sonderfällen beschäftigen könne. Also mit all diesen Fällen, die viel Arbeit und Flexibilität erfordern. Jene Fälle also, die wie geschaffen sind für Lorenzetti.
 
-{{<box title ="Ausklappbare Box">}}
-
-### Werdegang:
+{{<box title ="Werdegang">}}
 
 André Lorenzetti wurde am 22.Juni.1966 in Santander, Spanien, als Sohn eines Sekundarlehrers und einer Primarlehrerin geboren. Nach der obligatorischen Schulzeit machte er die Matura Typus C an der Kantonsschule Schaffhausen und studierte Mathematik, Chemie und Musik an der Universität und dem Konservatorium Bern. André Lorenzetti unterrichtete 16 Jahre an einer Volksschule, bevor er 2003 ans Gymnasium Interlaken wechselte. Dort stieg er bis zum Rektor auf, ehe er 2013 Abteilungsleiter MN am Gymnasium Kirchenfeld wurde. Seit 2022 ist er als Rektor das gesamtverantwortliche Mitglied der Schulleitung am Gymnasium Kirchenfeld. Zudem ist André Lorenzetti seit 2020 Vorsitzender der Konferenz der Schulleitungen der Agglomeration Bern (RAB) und seit 2021 Mitglied des Vorstandes der Konferenz der Schweizerischen Gymnasialrektor*innen (KSGR). Parallel dazu ist er immer noch im Militär als Kommunikations- und Managementtrainer tätig und leitet in diesen Funktionen mehrmals jährlich Krisenmanagementtrainings.
 
 {{</box>}}
 
-{{<box title ="Ausklappbare Box">}}
-
-### Auszug aus dem Interview mit André Lorenzetti
+{{<box title ="Auszug aus dem Interview mit André Lorenzetti">}}
 
 Sie haben ja viel gemacht in ihrem Leben. Wie genau hat Ihre Karriere angefangen?
 André Lorenzetti: Ich habe nicht den Eindruck eine Karriere gemacht zu haben. Ich habe einfach immer „Ja“ gesagt und mich ab und zu angeboten. \[…] Ich habe auch nicht den Eindruck, Rektor sein sei etwas Besonderes. Es ist eine vorgegebene Rolle, in der in mich einigermassen, nein, sehr wohl fühle. Aber ich könnte auch andere Dinge machen und bin der felsenfesten Überzeugung, dass andere Personen diese Rolle ebenso gut oder sogar noch besser ausfüllen würden. Der Beginn meiner Rektorlaufbahn festzumachen ist fast unmöglich, denn vermutlich sind alle Erfahrungen mehr oder weniger wertvoll gewesen, um diese spannende Arbeit jetzt machen zu können.
