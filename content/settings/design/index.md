@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/img/default-favicon.png"
+icon = ""
 logo = "/img/default-logo.png"
-image = "/img/default-image.jpg"
+image = "/media/london-street.jpg"
 color = "#5d9fbd"
 +++
