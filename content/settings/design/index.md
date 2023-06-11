@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/media/lulu.jpg"
-logo = "/media/bern-regen.jpg"
+icon = "/media/bern-regen.jpg"
+logo = "/media/lulu.jpg"
 image = "/media/london-street.jpg"
 color = "#5d9fbd"
 +++
