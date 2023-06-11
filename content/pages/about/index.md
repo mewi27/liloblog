@@ -5,5 +5,3 @@ image = ""
 description = ""
 +++
 ![](/img/default-author.jpg)
-
-## Melinda Widler
