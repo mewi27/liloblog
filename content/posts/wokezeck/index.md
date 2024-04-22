@@ -19,12 +19,10 @@ Dieses Beispiel zeigt sehr gut die Abhängigkeit eines Textes von der Rezipienti
 
 <!--EndFragment-->
 
-```
-<!--StartFragment-->
+{{<box title ="Metatext">}}
 
 Während meines vierwöchigen Praktikums hatte ich nicht viel Zeit, um mich mit Schulischen Angelegenheiten zu befassen. Die grobe Idee für den Blog zu Woyzeck hatte ich zum Glück schon vor den Ferien. So kam es, dass dieser Text kurz vor der Abgabe entstand. Für einen nächsten Schreibprozess ist unbedingt mehr Zeit einzuplanen. Mit der Eingrenzung des Themas hatte ich etwas Mühe, da ich während des Schreibens stets neue Ideen hatte.
 
 Hilfsmittel zum Schreiben waren lediglich meine Notizen, der Text „Woyzeck“ und das Word-Korrektur Programm. Als ich eine Erstversion fertig hatte, liess ich meinen Text von ChatGPT durchlesen und sprachlich überarbeiten. Mir gefielen ChatGPT’s Korrekturen nicht, weshalb ich sie auch nicht übernahm.    
 
-<!--EndFragment-->
-```
+{{<box>}}
