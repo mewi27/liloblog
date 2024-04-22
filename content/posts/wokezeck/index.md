@@ -1,9 +1,10 @@
 +++
-title = "Wokezeck"
+title = "Woyzeck"
 date = "2024-04-22"
 draft = false
 pinned = false
 tags = ["deutsch", "woyzeck"]
+image = "s54-georg-buechner.webp"
 +++
 <!--StartFragment-->
 
