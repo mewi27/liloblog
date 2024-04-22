@@ -3,6 +3,7 @@ title = "Wokezeck"
 date = "2024-04-22"
 draft = false
 pinned = false
+tags = ["deutsch", "woyzeck"]
 +++
 <!--StartFragment-->
 
