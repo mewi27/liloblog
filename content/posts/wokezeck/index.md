@@ -1,12 +1,12 @@
 +++
-title = "Woyzeck als Kind seiner Zeit"
+title = "Woyzeck "
 date = "2024-04-22"
 draft = false
 pinned = false
 tags = ["deutsch", "woyzeck"]
 image = "s54-georg-buechner.webp"
 +++
-\    <!--StartFragment-->
+<!--StartFragment-->
 
 Im Rahmen des Deutschunterrichts hat unsere Klasse das Theaterstück Woyzeck gelesen und besprochen. Es wurde von Georg Büchner im Jahr 1836 geschrieben. Das Stück handelt von Franz Woyzeck, der ein uneheliches Kind hat und in Armut lebt. Weiter werde ich hier nicht auf den Inhalt des Werkes eingehen. Folgender Text befasst sich mit einem sehr kleinen Teil des Unterrichts, jedoch mit einem Satz meines Deutschlehrers, der mich packte. „Wir sind alles Kinder unserer Zeit.“
 
@@ -22,4 +22,4 @@ Ich finde dieses Beispiel zeigt gut, wie vielseitig literarische Texte sind. Wel
 
 {{<box title ="Metatext">}} Während meines vierwöchigen Praktikums hatte ich nicht viel Zeit, um mich mit Schulischen Angelegenheiten zu befassen. Die grobe Idee für den Blog zu Woyzeck hatte ich zum Glück schon vor den Ferien. So kam es, dass dieser Text kurz vor der Abgabe entstand. Für einen nächsten Schreibprozess ist unbedingt mehr Zeit einzuplanen. Mit der Eingrenzung des Themas hatte ich etwas Mühe, da ich während des Schreibens stets neue Ideen hatte.
 
-Hilfsmittel zum Schreiben waren lediglich meine Notizen, der Text „Woyzeck“ und das Word-Korrektur Programm. Als ich eine Erstversion fertig hatte, habe ich sie selbst überarbeitet. Zum Schluss habe ich den Text meinem Vater gegeben. Dabei war mir wichtig, dass er als aussenstehende Person den Text versteht und der Inhalt klar ist. {{ </box> }}
+Hilfsmittel zum Schreiben waren lediglich meine Notizen, der Text „Woyzeck“ und das Word-Korrektur Programm. Als ich eine Erstversion fertig hatte, habe ich sie selbst überarbeitet. Zum Schluss habe ich den Text meinem Vater gegeben. Dabei war mir wichtig, dass er als aussenstehende Person den Text versteht und der Inhalt klar ist. {{</box>}}
