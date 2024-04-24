@@ -6,7 +6,7 @@ pinned = false
 image = "eldorado.jpg"
 description = ""
 +++
-# L’Auteur :
+# L’Auteur:
 
 L’auteur du livre Eldorado est Laurent Gaudé. Il est né en 1972 à Paris, France. À l’université de Paris il a étudié littérature et théâtre et en 1997 il a publié son premier théâtre “Onysos le furieux”. Des autres pièces des théâtre suivait, puis il a commencé d’écrire des romans. Il a gagné plusieurs prix littéraires, par exemple le prix Goncourt, le prix des livres européens et le prix de littérature de Euregio (l’Euregio est un prix dont le jury consiste uniquement des élèves) pour le livre Eldorado. 
 Thème :
