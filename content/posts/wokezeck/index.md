@@ -20,6 +20,6 @@ Ich finde dieses Beispiel zeigt gut, wie vielseitig literarische Texte sind. Wel
 
 <!--EndFragment-->
 
-{{<box title ="Metatext">}} Während meines vierwöchigen Praktikums hatte ich nicht viel Zeit, um mich mit Schulischen Angelegenheiten zu befassen. Die grobe Idee für den Blog zu Woyzeck hatte ich zum Glück schon vor den Ferien. So kam es, dass dieser Text kurz vor der Abgabe entstand. Für einen nächsten Schreibprozess ist unbedingt mehr Zeit einzuplanen. Mit der Eingrenzung des Themas hatte ich etwas Mühe, da ich während des Schreibens stets neue Ideen hatte.
+{{<box title ="Metatext">}} Während meines vierwöchigen Praktikums hatte ich nicht viel Zeit, um mich mit schulischen Angelegenheiten zu befassen. Die grobe Idee für den Blog zu Woyzeck hatte ich zum Glück schon vor den Ferien. So kam es, dass dieser Text kurz vor der Abgabe entstand. Für einen nächsten Schreibprozess ist unbedingt mehr Zeit einzuplanen. Mit der Eingrenzung des Themas hatte ich etwas Mühe, da ich während des Schreibens stets neue Ideen hatte.
 
 Hilfsmittel zum Schreiben waren lediglich meine Notizen, der Text „Woyzeck“ und das Word-Korrektur Programm. Als ich eine Erstversion fertig hatte, habe ich sie selbst überarbeitet. Zum Schluss habe ich den Text meinem Vater gegeben. Dabei war mir wichtig, dass er als aussenstehende Person den Text versteht und der Inhalt klar ist. {{</box>}}
