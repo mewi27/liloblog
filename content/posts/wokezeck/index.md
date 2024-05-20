@@ -4,6 +4,7 @@ date = "2024-04-22"
 draft = false
 pinned = false
 tags = ["deutsch", "woyzeck"]
+image = "s54-georg-buechner.webp"
 footnotes = "Quelle Titelbild: https://www.lacooltura.com/2018/05/georg-buchner-scrittore-servizio-verita/"
 +++
 <!--StartFragment-->
