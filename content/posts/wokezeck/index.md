@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["deutsch", "woyzeck"]
 image = "s54-georg-buechner.webp"
-footnotes = "Quelle Titelbild: https://www.lacooltura.com/2018/05/georg-buchner-scrittore-servizio-verita/"
+footnotes = "Titelbild: Georg Büchner, https://www.lacooltura.com/2018/05/georg-buchner-scrittore-servizio-verita/"
 +++
 <!--StartFragment-->
 
