@@ -1,11 +1,11 @@
 +++
-title = "POV: enormes Ungeziefer"
+title = "POV*: enormes Ungeziefer"
 date = "2024-05-25"
 draft = false
 pinned = false
 tags = []
 image = "th.jpg"
-footnotes = "Titelbild: https://knowyourmeme.com/editorials/guides/would-you-still-love-your-girlfriend-if-she-were-a-worm-the-age-old-question-plaguing-boyfriends-explained"
+footnotes = "Titelbild: https://knowyourmeme.com/editorials/guides/would-you-still-love-your-girlfriend-if-she-were-a-worm-the-age-old-question-plaguing-boyfriends-explained\n\n\\*POV bedeutet Point of view und wird in der Jugendsprache und im Internet verwendet, um auszudrücken aus welchem Blickwinkel man schaut. Hier möchte ich aus der Perspektive eines Ungeziefers sprechen."
 +++
 <!--StartFragment-->
 
