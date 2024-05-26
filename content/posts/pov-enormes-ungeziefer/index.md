@@ -4,7 +4,7 @@ date = "2024-05-25"
 draft = false
 pinned = false
 tags = []
-image = "th.jpg"
+image = "whatsapp-image-2024-05-26-at-13.16.40_0e42ec1d.jpg"
 footnotes = "Titelbild: https://knowyourmeme.com/editorials/guides/would-you-still-love-your-girlfriend-if-she-were-a-worm-the-age-old-question-plaguing-boyfriends-explained\n\n\\*POV bedeutet Point of view und wird in der Jugendsprache und im Internet verwendet, um auszudrücken aus welchem Blickwinkel man schaut. Hier möchte ich aus der Perspektive eines Ungeziefers sprechen."
 +++
 <!--StartFragment-->
