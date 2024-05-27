@@ -3,6 +3,7 @@ title = "Hauptinformationsquelle der Generation Z - Warum wir dabei kritisch ble
 date = "2023-12-21"
 draft = false
 pinned = false
+tags = ["deutsch"]
 image = "1627059266060-gettyimages-1234045968.webp"
 description = "Social Media, insbesondere Tiktok und Youtube ist eine der Hauptinformationsquellen der Generation Z. Einerseits informieren sich viele Jugendliche auf TikTok über harmlose Urlaubsziele und Restauranttipps, andererseits jedoch auch über politische und gesellschaftlich aktuelle Themen. Problematisch kann dies insofern sein, wenn der Zuschauer oder die Zuschauerin dabei nicht kritisch bleibt."
 footnotes = "Quellen: <!--StartFragment-->\n\n<https://marketing.ch/suchmaschinenmarketing/ist-tiktok-die-neue-suchmaschine-fuer-gen-z/>\n\nTitelbild: https://www.vice.com/en/article/pkbxm9/tiktok-blackout-challenge-kill-children \n\n<!--EndFragment-->"
