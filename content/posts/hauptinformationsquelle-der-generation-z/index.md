@@ -24,4 +24,4 @@ Folglich sollten Videos, Kommentare, Suchvorschläge grundsätzlich kritisch hin
 
 <!--EndFragment-->
 
-{{<box title="Metatext"> }} Diesen Text habe ich mithilfe von meinen Notizen, dem Word-Korrekturprogramm und Formulierungsvorschläge von ChatGPT verfasst. Bei der Thematik habe ich mich von dem Youtubevideo von Jonas Ems "TOP KOMMENTAR, eine unterschätzte Gefahr..." inspirieren lassen. {{ </box> }}
+{{<box title="Metatext">}} Diesen Text habe ich mithilfe von meinen Notizen, dem Word-Korrekturprogramm und Formulierungsvorschläge von ChatGPT verfasst. Bei der Thematik habe ich mich von dem Youtubevideo von Jonas Ems "TOP KOMMENTAR, eine unterschätzte Gefahr..." inspirieren lassen. {{</box>}}
