@@ -1,5 +1,5 @@
 +++
-title = "Kann Kunst die Welt retten?"
+title = "Die Kunst der Geschichten"
 date = "2024-10-29"
 draft = false
 pinned = false
@@ -13,6 +13,8 @@ Lessing wollte seine Idee vermitteln, wurde aber durch das Publikationsverbot da
 
 Erzählungen und Geschichten prägten schon die ganze Menschheitsgeschichte. Geschichten sprechen uns emotional an, wir können uns mit den Figuren identifizieren und mitfühlen. Wir Menschen sortieren unsere Wahrnehmungen in Geschichten ein. Chaos vertragen wir schlecht, unsere Gehirne versuchen überall ein Muster zu erkennen. Wir brauchen narrative Strukturen, um unsere Gedanken zu ordnen. Wenn uns eine Geschichte berührt, ängstigt oder wir uns damit identifizieren, werden gewisse Botenstoffe ausgeschüttet. Wir erinnern uns besser an Emotionen als an Fakten. «People remember how stories make them feel, and are more inspired to take action than if they just heard facts and figures». Eine Geschichte gibt uns ein direktes Beispiel, welches wir auf eine allgemeine Aussage induzieren können. Dadurch, dass die Aussage nicht explizit formuliert wird, bleibt ein gewisser Interpretationsspielraum frei. So zieht jeder und jede aus einem literarischen Text vermutlich etwas andere Schlüsse. Schliesslich lieben wir Menschen Geschichten und hören lieber ihnen zu als nackten Fakten und Sachtexten. Die Spannung ist bei den meisten Geschichten stärker als bei Sachtexten. Hätte Lessing weiterhin nur sachliche Briefe geschrieben, hätten wir wahrscheinlich diese Thematik beziehungsweise Lessings Streit auch mit Goeze nicht im Deutschunterricht behandelt. Lessing zeigt die Frage und seine Antwort in dem Theaterstück *Nathan der Weise*. Er konnte seine Botschaft in diese Geschichte verpacken und so seine wichtige Botschaft aösdkjf. Auch heute haben wir viele und ähnliche Probleme auf der Welt wie Religionskonflikte, Klimakrise und Kriege. In einem anderen Medium als einem Theatertext, Leute mit Geschichten und Narrativen mobilisieren, Vielleicht können wir mit der Kunst der Geschichten die Welt ein wenig retten?
 
+{{<box title ="">}} 
+
 
 
 Diesen Blogartikel habe ich ohne Hilfsmittel verwendet. Inhaltliche Informationen nahm ich aus meinen Unterrichtsnotizen und diesen beiden Artikeln:
@@ -22,3 +24,5 @@ Diesen Blogartikel habe ich ohne Hilfsmittel verwendet. Inhaltliche Informatione
 Zitat von: <https://www.nationalgeographic.org/society/storytellers-collective/the-power-of-story/>
 
 Titelbild von: <https://ch.pinterest.com/pin/70437487821168/>
+
+{{</box>}}
